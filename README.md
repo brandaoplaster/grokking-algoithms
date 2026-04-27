@@ -38,8 +38,8 @@ bhargava/
 Clone the repository:
 
 ```bash
-git clone https://github.com/brandaoplaster/bhargava.git
-cd bhargava
+git clone https://github.com/brandaoplaster/grokking-algoithms.git
+cd grokking-algoithms
 ```
 
 Install dependencies:
